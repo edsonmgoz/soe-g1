@@ -1,4 +1,4 @@
-package main.soe.api.domain.useCases.Teacher;
+package main.soe.api.domain.useCases.Enrolled;
 import main.soe.api.data.entities.StudentEntity;
 import java.util.List;
 

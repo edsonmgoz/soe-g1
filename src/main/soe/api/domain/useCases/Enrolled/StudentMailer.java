@@ -1,4 +1,4 @@
-package main.soe.api.domain.useCases.Teacher;
+package main.soe.api.domain.useCases.Enrolled;
 
 public class StudentMailer {
     public Object send() {

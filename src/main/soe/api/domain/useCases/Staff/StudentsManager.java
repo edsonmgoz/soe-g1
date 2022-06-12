@@ -9,8 +9,4 @@ public class StudentsManager {
     public StudentEntity add() {
         return null;
     }
-
-    public List<StudentEntity> allPrograms() {
-        return null;
-    }
 }

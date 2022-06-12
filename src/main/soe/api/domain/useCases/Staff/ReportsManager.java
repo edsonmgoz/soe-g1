@@ -1,20 +1,22 @@
 package main.soe.api.domain.useCases.Staff;
 
+import java.util.List;
+
 public class ReportsManager {
 
-public Object studentsByProgramAndGroup() {
+public List<Object> studentsByProgramAndGroup() {
     return null;
 }
 
-public Object paymentsByProgramAndGroup() {
+public List<Object> paymentsByProgramAndGroup() {
     return null;
 }
 
-public Object studentsByProgram() {
+public List<Object> studentsByProgram() {
     return null;
 }
 
-public Object studentsByTeacher() {
+public List<Object> studentsByTeacher() {
     return null;
 }
 
