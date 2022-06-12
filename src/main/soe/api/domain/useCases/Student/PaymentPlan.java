@@ -1,5 +1,9 @@
 package main.soe.api.domain.useCases.Student;
 
-public class PaymentPlan {
+import main.soe.api.data.entities.GroupStudentEntity;
 
+public class PaymentPlan {
+    public GroupStudentEntity info() {
+        return null;
+    }
 }

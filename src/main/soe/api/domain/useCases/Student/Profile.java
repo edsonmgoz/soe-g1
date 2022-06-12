@@ -1,5 +1,9 @@
 package main.soe.api.domain.useCases.Student;
 
-public class Profile {
+import main.soe.api.data.entities.StudentEntity;
 
+public class Profile {
+    public StudentEntity detail() {
+        return null;
+    }
 }
